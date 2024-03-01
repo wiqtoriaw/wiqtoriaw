@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Wiktoria👋
 
 ![Codewars](https://github.r2v.ch/codewars?user=wiqtoriaw&top_languages=true&stroke=%23b362ff&theme=gradient_purple_dark&hide_clan=true)
 
